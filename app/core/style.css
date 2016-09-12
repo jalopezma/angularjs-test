@@ -1,0 +1,70 @@
+body {
+    color: #484646;
+    font-family: 'Work Sans', sans-serif;
+}
+a,
+a:visited,
+a:focus,
+a:hover {
+    color: #484646;
+    text-decoration: none;
+}
+a:hover {
+    color: #008ee6;
+}
+.container {
+    width: 800px;
+    margin: 20px auto;
+    background: #edf5f9;
+    padding: 10px 20px;
+    border: 1px solid #cccccc;
+}
+
+.table {
+    text-align: center;
+}
+.table-100 {
+    width: 100%;
+}
+.table td {
+    height: 35px;
+    line-height: 35px;
+    border: 1px solid #a09fa7;
+    background-color: white;
+}
+.table tbody tr:nth-child(odd) td {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.table thead td {
+    background-color: #c7c7c7;
+    font-weight: bold;
+}
+.table thead td a {
+    display: block;
+}
+
+/* Extended row info */
+.extendedInfoContainer {
+    height: 170px;
+}
+.extendedInfoContainer table {
+    width: 300px;
+}
+
+.bookmakersList {
+    width: 100%;
+    display: block;
+    list-style: none;
+}
+.bookmakersList li {
+    display: inline-block;
+    width: 33.33%;
+    text-align: center;
+    padding: 0;
+}
+.bookmakersList li a {
+    display: block;
+    color: #459ed6;
+    font-weight: bold;
+}
+
