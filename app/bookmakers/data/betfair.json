@@ -1,0 +1,106 @@
+[
+    {
+        "team": "Man City",
+        "back": 1.94,
+        "lay": 1.95
+    },
+    {
+        "team": "Chelsea",
+        "back": 7.00,
+        "lay": 7.20
+    },
+    {
+        "team": "Man Utd",
+        "back": 6.80,
+        "lay": 7.00
+    },
+    {
+        "team": "Liverpool",
+        "back": 12.50,
+        "lay": 13.00
+    },
+    {
+        "team": "Arsenal",
+        "back": 18.00,
+        "lay": 18.50
+    },
+    {
+        "team": "Tottenham",
+        "back": 17.00,
+        "lay": 17.50
+    },
+    {
+        "team": "Leicester",
+        "back": 160.00,
+        "lay": 180.00
+    },
+    {
+        "team": "Everton",
+        "back": 160.00,
+        "lay": 190.00
+    },
+    {
+        "team": "West Ham",
+        "back": 1000.00,
+        "lay": 0
+    },
+    {
+        "team": "Southampton",
+        "back": 1000.00,
+        "lay": 0
+
+    },
+    {
+        "team": "Stoke",
+        "back": 1000.00,
+        "lay": 0
+    },
+    {
+        "team": "West Brom",
+        "back": 1000.00,
+        "lay": 0
+    },
+    {
+        "team": "Bournemouth",
+        "back": 1000.00,
+        "lay": 0
+
+    },
+    {
+        "team": "Watford",
+        "back": 1000.00,
+        "lay": 0
+
+    },
+    {
+        "team": "Swansea",
+        "back": 1000.00,
+        "lay": 0
+    },
+    {
+        "team": "Burnley",
+        "back": 1000.00,
+        "lay": 0
+    },
+    {
+        "team": "Middlesbrough",
+        "back": 1000.00,
+        "lay": 0
+    },
+    {
+        "team": "Sunderland",
+        "back": 1000.00,
+        "lay": 0
+    },
+    {
+        "team": "Crystal Palace",
+        "back": 1000.00,
+        "lay": 0
+    },
+    {
+        "team": "Hull",
+        "back": 1000.00,
+        "lay": 0
+    }
+]
+

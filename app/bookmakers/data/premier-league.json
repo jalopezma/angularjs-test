@@ -1,0 +1,346 @@
+[
+    {
+        "team": "Man City",
+        "bookmakers": {
+            "betfair": {
+                "back": 1.94,
+                "lay": 1.95
+            },
+            "bet365": {
+                "back": 1.90,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 1.86,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "Chelsea",
+        "bookmakers": {
+            "betfair": {
+                "back": 7.00,
+                "lay": 7.20
+            },
+            "bet365": {
+                "back": 6.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 6.00,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "Man Utd",
+        "bookmakers": {
+            "betfair": {
+                "back": 6.80,
+                "lay": 7.00
+            },
+            "bet365": {
+                "back": 5.50,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 5.00,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "Liverpool",
+        "bookmakers": {
+            "betfair": {
+                "back": 12.50,
+                "lay": 13.00
+            },
+            "bet365": {
+                "back": 11.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 12.00,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "Arsenal",
+        "bookmakers": {
+            "betfair": {
+                "back": 18.00,
+                "lay": 18.50
+            },
+            "bet365": {
+                "back": 13.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 15.00,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "Tottenham",
+        "bookmakers": {
+            "betfair": {
+                "back": 17.00,
+                "lay": 17.50
+            },
+            "bet365": {
+                "back": 15.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 15.00,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "Leicester",
+        "bookmakers": {
+            "betfair": {
+                "back": 160.00,
+                "lay": 180.00
+            },
+            "bet365": {
+                "back": 101.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 111.00,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "Everton",
+        "bookmakers": {
+            "betfair": {
+                "back": 160.00,
+                "lay": 190.00
+            },
+            "bet365": {
+                "back": 101.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 51.00,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "West Ham",
+        "bookmakers": {
+            "betfair": {
+                "back": 1000.00,
+                "lay": 0
+            },
+            "bet365": {
+                "back": 251.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 276.00,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "Southampton",
+        "bookmakers": {
+            "betfair": {
+                "back": 1000.00,
+                "lay": 0
+            },
+            "bet365": {
+                "back": 751.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 1001.00,
+                "lay": 0
+
+            }
+        }
+    },
+    {
+        "team": "Stoke",
+        "bookmakers": {
+            "betfair": {
+                "back": 1000.00,
+                "lay": 0
+            },
+            "bet365": {
+                "back": 1251.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 366.25,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "West Brom",
+        "bookmakers": {
+            "betfair": {
+                "back": 1000.00,
+                "lay": 0
+            },
+            "bet365": {
+                "back": 1501.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 126.00,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "Bournemouth",
+        "bookmakers": {
+            "betfair": {
+                "back": 1000.00,
+                "lay": 0
+            },
+            "bet365": {
+                "back": 1001.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 126.00,
+                "lay": 0
+
+            }
+        }
+    },
+    {
+        "team": "Watford",
+        "bookmakers": {
+            "betfair": {
+                "back": 1000.00,
+                "lay": 0
+            },
+            "bet365": {
+                "back": 1001.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 101.00,
+                "lay": 0
+
+            }
+        }
+    },
+    {
+        "team": "Swansea",
+        "bookmakers": {
+            "betfair": {
+                "back": 1000.00,
+                "lay": 0
+            },
+            "bet365": {
+                "back": 1001.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 101.00,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "Burnley",
+        "bookmakers": {
+            "betfair": {
+                "back": 1000.00,
+                "lay": 0
+            },
+            "bet365": {
+                "back": 1001.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 101.00,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "Middlesbrough",
+        "bookmakers": {
+            "betfair": {
+                "back": 1000.00,
+                "lay": 0
+            },
+            "bet365": {
+                "back": 1001.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 1.01,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "Sunderland",
+        "bookmakers": {
+            "betfair": {
+                "back": 1000.00,
+                "lay": 0
+            },
+            "bet365": {
+                "back": 1501.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 168.25,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "Crystal Palace",
+        "bookmakers": {
+            "betfair": {
+                "back": 1000.00,
+                "lay": 0
+            },
+            "bet365": {
+                "back": 1001.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 126.25,
+                "lay": 0
+            }
+        }
+    },
+    {
+        "team": "Hull",
+        "bookmakers": {
+            "betfair": {
+                "back": 1000.00,
+                "lay": 0
+            },
+            "bet365": {
+                "back": 1001.00,
+                "lay": 0
+            },
+            "netbet": {
+                "back": 600.75,
+                "lay": 0
+            }
+        }
+    }
+]
+
