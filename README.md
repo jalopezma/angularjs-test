@@ -3,7 +3,7 @@
 
 ```
 $ npm install
-$ ln -s /path/to/repo/node_modules /path/to/repo/app/node_modules
+$ ln -s /path/to/angularjs-test/node_modules /path/to/angularjs-test/app/node_modules
 $ cd app
 $ ./node_modules/http-server/bin/http-server -o
 ```
