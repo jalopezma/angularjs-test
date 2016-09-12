@@ -3,13 +3,28 @@
 <head>
     <base href="/">
     <title>AngularJS Controllers</title>
-    <link rel="stylesheet" href="core/style.css">
+    <link href="core/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
 </head>
 <body>
-    <div ng-app="app">
-        <h1>Testing</h1>
+    <div class="container" ng-app="app">
+        <div ng-view></div>
     </div>
+    <!-- Angular -->
     <script type="text/javascript" src="node_modules/angular/angular.min.js"></script>
+    <script type="text/javascript" src="node_modules/angular-route/angular-route.js"></script>
+
+    <!-- App -->
     <script type="text/javascript" src="core/app.module.js"></script>
+    <script type="text/javascript" src="core/app.config.js"></script>
+    <script type="text/javascript" src="core/main/main.controller.js"></script>
+    <script type="text/javascript" src="core/about/about.component.js"></script>
+
+    <!-- Bookmakers -->
+    <script type="text/javascript" src="bookmakers/bookmakers.module.js"></script>
+    <script type="text/javascript" src="bookmakers/bookmakers.config.js"></script>
+    <script type="text/javascript" src="bookmakers/services/bookmakers.service.js"></script>
+    <script type="text/javascript" src="bookmakers/list/list.component.js"></script>
+    <script type="text/javascript" src="bookmakers/comparer/comparer.component.js"></script>
 </body>
 </html>
